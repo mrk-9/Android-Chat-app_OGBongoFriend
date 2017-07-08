@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="1.0.1"><source path="E:\Android\Android Tasks\OgbongeProject\OgbongeFriends5\app\build\intermediates\exploded-aar\com.android.support\multidex-instrumentation\1.0.1\assets"/></dataSet><dataSet config="main"><source path="E:\Android\Android Tasks\OgbongeProject\OgbongeFriends5\app\src\androidTest\assets"/><source path="E:\Android\Android Tasks\OgbongeProject\OgbongeFriends5\app\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

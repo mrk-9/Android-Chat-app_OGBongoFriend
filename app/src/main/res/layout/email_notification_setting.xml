@@ -1,0 +1,247 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_light_grey" >
+
+    <!-- <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/r21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="E-Mail Notification Settings"
+                    android:textColor="@color/white"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+        
+
+    <RelativeLayout
+        android:id="@+id/r1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp" >
+
+        <CheckBox
+            android:id="@+id/en1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="When anyone sends me a &apos;propose&apos; comment"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/r1"
+        android:layout_marginLeft="20dp" >
+
+        <CheckBox
+            android:id="@+id/en2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When a new friend is found"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/r2"
+        android:layout_marginLeft="20dp" >
+
+        <CheckBox
+            android:id="@+id/en3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When a new message is recieved"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/r3"
+        android:layout_marginLeft="20dp" >
+
+        <CheckBox
+            android:id="@+id/en4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When a backstage photo is rated"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/r4"
+        android:layout_marginLeft="20dp" >
+
+        <CheckBox
+            android:id="@+id/en5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When someone has liked you"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/r5"
+        android:layout_marginLeft="20dp" >
+
+        <CheckBox
+            android:id="@+id/en6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When someone has fav&apos;d you"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/r6"
+        android:layout_marginLeft="20dp" >
+
+        <CheckBox
+            android:id="@+id/en7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When someone send you a Gift"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r71"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/r7"
+        android:layout_marginLeft="20dp" >
+
+        <CheckBox
+            android:id="@+id/en71"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When you receive a gift"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/r71"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="20dp" >
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save" />
+    </RelativeLayout>
+    </LinearLayout>
+    </ScrollView> -->
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="fill_parent"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:layout_marginTop="20dp"
+             android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"
+            android:text="Make sure you can remember your password, as you will need this to sign back in. "
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/emailText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:enabled="false"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="yadav.arvind156#gmail.com"
+            android:ems="10" >
+
+            <requestFocus />
+        </EditText>
+
+        <Button
+            android:id="@+id/change_pass"
+            android:layout_width="fill_parent"
+            android:layout_marginTop="20dp"
+             android:padding="10dp"
+             android:background="@drawable/rounded_blue_btn"
+             android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:text="Change Password" />
+
+        <Button
+            android:id="@+id/sign_out"
+             android:layout_width="fill_parent"
+              android:padding="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:background="@drawable/rounded_blue_btn"
+            android:text="Sign out" />
+        
+        
+        <Button
+            android:id="@+id/hideAccount"
+             android:layout_width="fill_parent"
+              android:padding="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:background="@drawable/rounded_blue_btn"
+            android:text="Hide Account" />
+
+    </LinearLayout>
+
+    <!-- <TextView
+        android:id="@+id/hideAccount"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentBottom="true"
+        android:textColor="@color/white"
+        android:background="@drawable/rounded_blue_btn"
+        android:text="Hide Account"
+        android:textAppearance="?android:attr/textAppearanceLarge" /> -->
+
+</RelativeLayout>

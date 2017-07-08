@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+  >
+
+    <ImageView
+        android:id="@+id/google_images"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/facebook_images"
+        android:layout_marginTop="16dp"
+        android:layout_toLeftOf="@+id/twitter_images"
+        android:src="@drawable/google" />
+
+    <ImageView
+        android:id="@+id/facebook_images"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="22dp"
+        android:src="@drawable/facebook" />
+
+    <ImageView
+        android:id="@+id/twitter_images"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/google_images"
+        android:layout_marginLeft="17dp"
+        android:layout_toRightOf="@+id/facebook_images"
+        android:src="@drawable/twitter" />
+
+    <ImageView
+        android:id="@+id/linkedIn_images"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/google_images"
+        android:layout_marginLeft="23dp"
+        android:layout_toRightOf="@+id/twitter_images"
+        android:src="@drawable/linkden" />
+
+    <ImageView
+        android:id="@+id/yahoo_images"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/google_images"
+        android:layout_toLeftOf="@+id/linkedIn_images"
+        android:visibility="gone"
+        android:src="@drawable/yahoo" />
+
+</RelativeLayout>

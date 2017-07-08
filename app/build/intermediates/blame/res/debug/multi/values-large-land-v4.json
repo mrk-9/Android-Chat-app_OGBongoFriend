@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\values-large-land-v4\\values-large-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.soundcloud.android\\android-crop\\0.9.10\\res\\values-large-land-v4\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 47,
+                        "endOffset": 223
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\values-large-land-v4\\values-large-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.soundcloud.android\\android-crop\\0.9.10\\res\\values-large-land-v4\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 47,
+                        "endOffset": 223
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\values-large-land-v4\\values-large-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.soundcloud.android\\android-crop\\0.9.10\\res\\values-large-land-v4\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 47,
+                        "endOffset": 223
+                    }
+                }
+            }
+        ]
+    }
+]

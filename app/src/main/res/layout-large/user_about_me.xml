@@ -1,0 +1,172 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/baselayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_light_grey" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/background_grey"
+        android:visibility="gone" >
+
+        <Button
+            android:id="@+id/update_profile_btn"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/check_green" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="About Me"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/relativeLayout1" >
+
+        <LinearLayout
+            android:id="@+id/personal_info"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            
+            android:padding="30dp" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                   
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="My Handle"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="30sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/my_handle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="70dp"
+                    android:layout_marginTop="15dp"
+                     android:textColor="@color/light_blue"
+                    android:textSize="25sp"
+                    android:background="@drawable/text_box_bg"
+                   
+                     android:padding="5dp" >
+
+                    <requestFocus />
+                </EditText>
+            </LinearLayout>
+
+            <TextView
+               
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="40dp"
+                android:text="About Myself"
+                android:textSize="30sp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/white"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/about_me"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:ems="10"
+                    android:maxLines="4"
+                    android:textSize="25sp"
+                    android:layout_marginTop="10dp"
+                     android:textColor="@color/light_blue"
+                    android:padding="8dp"
+                    android:background="@drawable/text_box_bg"
+                    android:inputType="textPostalAddress" />
+
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginTop="40dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                   
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="My Education Status"
+                    
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="30sp"
+                    android:textStyle="bold" />
+
+                 <Spinner
+                android:id="@+id/education_list"
+                android:layout_marginTop="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="70dp" />
+            </LinearLayout>
+            
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginTop="35dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                   
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="My Job Status"
+                    android:textSize="30dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textStyle="bold" />
+
+                 <Spinner
+                android:id="@+id/job_list"
+                android:layout_marginTop="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="70dp" />
+            </LinearLayout>
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_marginTop="40dp"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:textSize="35sp"
+            android:background="@drawable/rounded_blue_btn"
+            android:padding="20dp"
+            android:textColor="@color/white"
+            android:text="   Save   " />
+            
+         </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

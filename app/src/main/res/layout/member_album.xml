@@ -1,0 +1,66 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/new_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+       android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1" >
+        
+         <ImageView
+        android:id="@+id/image1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+       
+        android:layout_gravity="center_horizontal"
+        android:background="#cfcfcf"
+       
+      />
+
+         <ProgressBar
+             android:id="@+id/pb1"
+             style="?android:attr/progressBarStyleSmall"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_centerHorizontal="true"
+             android:visibility="gone"
+             android:layout_centerVertical="true" />
+
+    </RelativeLayout>
+
+   <ImageView
+        android:id="@+id/border"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/border"
+        android:layout_below="@+id/top_menu" />
+    <HorizontalScrollView
+                        android:id="@+id/horizontalScrollView1"
+                        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="4"
+                        android:scrollbars="none" >
+
+                        <LinearLayout
+                            android:id="@+id/horizontal_scroll"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:background="#FFFFFFFF"
+                            android:orientation="horizontal" >
+
+                           
+
+                        </LinearLayout>
+                    </HorizontalScrollView>
+    <Gallery
+        android:id="@+id/gallery1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="4"
+        android:visibility="gone" />
+
+</LinearLayout>

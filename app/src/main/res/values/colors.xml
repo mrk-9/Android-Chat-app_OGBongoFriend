@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="follower">#99ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="white_trans">#99ffffff </color>
+    <color name="black_trans">#99000000 </color>
+    <color name="list_item_title">#fff</color>
+   <!--  <color name="list_background">#303030</color> -->
+   <color name="list_background">#2e3740</color>
+    <!--  <color name="list_background_pressed">#ffffff</color> -->
+     <color name="list_background_pressed">#252d36</color>
+       <color name="app_background_blue">#29b6ec</color>
+     <color name="background_grey">#4a5768</color>
+     
+     <color name="background_light_grey">#4a5768</color>
+      <item name="gray_holo_dark" type="color">#ff464646</item>
+    <item name="gray_holo_light" type="color">#ffd0d0d0</item>
+    <!-- <color name="list_divider">#272727</color> -->
+    <color name="list_divider">#29b6ec</color>
+    <color name="light_blue">#76d0f2</color>
+    
+    <color name="grey">#808080</color>
+    <color name="light_green">#94d5ad</color>
+    <color name="light_yello">#ffff00</color>
+
+     <color name="blue">#43B2E4</color>
+     <color name="green_btn">#5cb85c</color>
+      <color name="redeem_btn">#2B60DE</color>
+     <color name="default_screen_bg">#f9f9f9</color>
+    <color name="rounded_container_bg">#222222</color>
+    <color name="rounded_container_border">#3b3f44</color>
+    <color name="light_gray_header_color">#646663</color>
+     
+    
+     <color name="create_account">#f04442</color>
+      <color name="forgot_password">#29b6ec</color>
+     
+     <color name="create_event_btn">#2B60DE</color>
+      <color name="event">#D33906</color>
+  <color name="propose_normal">#4B5320</color>
+  <color name="closed_event">#d9534f</color>
+  <color name="close_event">#5bc0de</color>
+  <color name="accept">#5bc0de</color>
+  
+      
+    <color name="red">#FF0000</color>
+    <color name="like_blue">#2980b9</color>
+ <color name="uy_green">#20c9ab</color>
+ <color name="uy_gray">#bcbfc0</color>
+ <color name="sg_gray">#383838</color>
+    <color name="sg_blue">#E0ECF8</color>
+    <color name="obgonge_blue">#29b6ec</color>
+</resources>

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "727443607459",
+    "project_id": "androidogbonge"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727443607459:android:e429742329d6add8",
+        "android_client_info": {
+          "package_name": "com.ogbongefriends.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727443607459-k5r31uuroloropnp6focg3g10qda7ko0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ogbongefriends.com",
+            "certificate_hash": "0F18C4BEC8B7725565A91984DD2BF7151B0C4F33"
+          }
+        },
+        {
+          "client_id": "727443607459-e96srfcgdd864aqq3b6tp0cas8dum10b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoxOHEB3UzDY6nBS3d17saBT3-mVwvv7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-77425577-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727443607459-e96srfcgdd864aqq3b6tp0cas8dum10b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

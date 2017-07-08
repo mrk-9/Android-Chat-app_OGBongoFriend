@@ -1,0 +1,194 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+    <ImageView
+        android:id="@+id/banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+    
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id">
+    </com.google.android.gms.ads.AdView>
+    
+    
+    <RelativeLayout
+        android:id="@+id/parent_layout"
+        android:layout_width="fill_parent"
+        android:padding="8dp"
+        android:layout_height="wrap_content" >
+        
+        <TextView
+            android:id="@+id/how_about_we"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="8dp"
+            android:text="How About We..."
+            android:textColor="@color/obgonge_blue"
+            android:textSize="25sp"
+             />
+
+        <TextView
+            android:id="@+id/event"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:layout_marginTop="8dp"
+             android:layout_toLeftOf="@+id/close_event"
+            android:layout_toRightOf="@+id/how_about_we"
+            android:textColor="@color/red"
+            android:textSize="25sp" />
+        
+        
+        <Button
+                                android:id="@+id/close_event"
+                                android:layout_width="wrap_content"
+                                android:layout_height="45dp"
+                    			android:layout_marginTop="8dp"
+                    			android:layout_alignParentRight="true"
+                     			android:gravity="center"
+                     			android:layout_marginLeft="3dp"
+                     			android:layout_marginRight="5dp"
+                                android:background="@drawable/closed_event"
+                                android:padding="8dp"
+                               android:textColor="@color/white"
+                               android:textSize="20sp"
+                                android:text="Closed" />
+        
+         <TextView
+            android:id="@+id/how_about_we_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/black"
+          android:layout_below="@+id/event"
+            android:textSize="25sp"
+           />
+
+        
+
+         <LinearLayout
+             android:layout_width="wrap_content"
+             android:layout_below="@+id/how_about_we_text"
+             android:layout_height="wrap_content"
+             android:orientation="vertical" >
+
+             <LinearLayout
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content" >
+
+                 <TextView
+                     android:id="@+id/textView1"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_marginLeft="10dp"
+                     android:textSize="25sp"
+                     android:text="Place:"
+                     android:textColor="@color/obgonge_blue"
+     
+           
+                      />
+
+                 <TextView
+                     android:id="@+id/location"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:textColor="@color/black"
+                      android:textSize="25sp"
+                     />
+
+             </LinearLayout>
+
+             <LinearLayout
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content" >
+
+                 <TextView
+                     android:id="@+id/textView3"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:textSize="25sp"
+                     android:layout_marginLeft="10dp"
+   
+            android:text="Category:"
+            android:textColor="@color/obgonge_blue"
+         />
+
+                 <TextView
+                     android:id="@+id/cate"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:textColor="@color/black"
+                      android:textSize="25sp"
+                     />
+
+             </LinearLayout>
+
+             <LinearLayout
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content" >
+
+                 <RelativeLayout
+                     android:layout_width="fill_parent"
+                     android:layout_height="match_parent" >
+
+                     <TextView
+                         android:id="@+id/textView5"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:layout_marginLeft="10dp"
+                         android:text="Date:"
+                          android:textSize="25sp"
+                         android:textColor="@color/obgonge_blue"
+                         />
+
+                     <TextView
+                         android:id="@+id/dateText"
+                         android:layout_width="wrap_content"
+                         android:layout_toRightOf="@+id/textView5"
+                         android:layout_height="wrap_content"
+                         android:layout_marginTop="5dp"
+                         android:textColor="@color/black"
+                          android:textSize="25sp"
+                        />
+
+                     <Button
+                         android:id="@+id/propose"
+                         android:layout_width="wrap_content"
+                         android:layout_height="45dp"
+                         android:layout_alignParentRight="true"
+                         android:padding="8dp"
+                         android:textSize="20sp"
+                         android:layout_marginRight="5dp"
+                         android:textColor="@color/white"
+                        
+                         android:background="@drawable/propose_btn"
+                         android:text="Propose"
+                        />
+
+                 </RelativeLayout>
+
+             </LinearLayout>
+
+         </LinearLayout>
+        
+    </RelativeLayout>
+ <LinearLayout
+             android:layout_width="fill_parent"
+             android:layout_height="1dp"
+             android:layout_marginTop="5dp"
+             android:background="@color/light_blue"
+             android:layout_alignParentBottom="true"
+             android:orientation="vertical" >
+         </LinearLayout>
+</RelativeLayout>

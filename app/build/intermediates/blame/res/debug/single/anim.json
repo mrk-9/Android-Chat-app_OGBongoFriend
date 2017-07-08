@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_top_in.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_top_in.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\library\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_top_out.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_top_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\library\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_top_out.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\library\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\library\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\library\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_top_out.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\library\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    }
+]

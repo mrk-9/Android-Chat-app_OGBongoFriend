@@ -1,0 +1,524 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+     android:background="@color/background_light_grey">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_weight="1"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+           
+            android:orientation="vertical" >
+          
+     <!-- <RelativeLayout
+        android:id="@+id/r21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        >
+
+         <TextView
+             android:id="@+id/textView1"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Push Notification Settings"
+             android:textColor="@color/white"
+             android:textSize="20sp" />
+
+    </RelativeLayout>
+    
+    <RelativeLayout
+        android:id="@+id/r1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_marginLeft="20dp"
+        android:layout_below="@+id/r21"
+        >
+
+        <CheckBox
+            android:id="@+id/pn1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When anyone sends me a &apos;propose&apos; comment"
+            android:textColor="@color/white"
+            android:layout_marginTop="10dp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r1"
+        android:layout_marginLeft="20dp"
+        >
+
+        <CheckBox
+            android:id="@+id/pn2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When a new friend is found" 
+             android:textColor="@color/white"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r2"
+        android:layout_marginLeft="20dp">
+
+        <CheckBox
+            android:id="@+id/pn3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When a new message is recieved"
+             android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r3"
+        android:layout_marginLeft="20dp">
+
+        <CheckBox
+            android:id="@+id/pn4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When a backstage photo is rated" 
+             android:textColor="@color/white"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r4"
+        android:layout_marginLeft="20dp">
+
+        <CheckBox
+            android:id="@+id/pn5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When someone has liked you"
+             android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r5"
+        android:layout_marginLeft="20dp">
+
+        <CheckBox
+            android:id="@+id/pn6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When someone has fav'd you"
+             android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+     <RelativeLayout
+        android:id="@+id/r61"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r6"
+        android:layout_marginLeft="20dp">
+
+        <CheckBox
+            android:id="@+id/pn61"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When you receive a gift"
+             android:textColor="@color/white" />
+
+    </RelativeLayout>
+    
+     <RelativeLayout
+        android:id="@+id/r7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r61"
+        android:layout_marginLeft="20dp">
+
+        <CheckBox
+            android:id="@+id/pn7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="When someone send you a gift"
+             android:textColor="@color/white" />
+
+    </RelativeLayout>
+    
+     
+         
+    <RelativeLayout
+        android:id="@+id/r8"
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/r7"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal" 
+        android:layout_marginLeft="20dp">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save"
+             />
+
+    </RelativeLayout> -->
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:gravity="center_vertical"
+                android:paddingTop="15dp"
+                android:background="@color/background_light_grey"
+                android:paddingBottom="15dp"
+                
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:textSize="30sp"
+                     android:paddingLeft="10dp"
+                     android:textColor="@color/white"
+                    android:layout_height="wrap_content"
+                    android:text="When anyone sends you a &apos;propose&apos; comment"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+<ImageView
+                    android:id="@+id/push1"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="70dp"
+                    android:src="@drawable/blue_push" />
+                <ImageView
+                    android:id="@+id/email1"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="55dp"
+                    android:src="@drawable/blue_email" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="@color/light_blue"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+          <LinearLayout
+                android:layout_width="fill_parent"
+                android:gravity="center_vertical"
+                android:paddingTop="15dp"
+                android:layout_marginTop="2dp"
+                android:background="@color/background_light_grey"
+                android:paddingBottom="15dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                   
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                     android:paddingLeft="10dp"
+                     android:textSize="30dp"
+                     android:textColor="@color/white"
+                    android:text="When a new friend is found" 
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+<ImageView
+                    android:id="@+id/push2"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="70dp"
+                    android:src="@drawable/blue_push" />
+                <ImageView
+                    android:id="@+id/email2"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="55dp"
+                    android:src="@drawable/blue_email" />
+
+            </LinearLayout>
+          <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="@color/light_blue"
+                android:orientation="vertical" >
+            </LinearLayout>  
+          
+
+          <LinearLayout
+                android:layout_width="fill_parent"
+                android:gravity="center_vertical"
+                android:layout_marginTop="2dp"
+                android:paddingTop="15dp"
+                android:background="@color/background_light_grey"
+                android:paddingBottom="15dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                   
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                     android:paddingLeft="10dp"
+                     android:textSize="30dp"
+                     android:textColor="@color/white"
+                   android:text="When a new message is recieved"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+<ImageView
+                    android:id="@+id/push3"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="70dp"
+                    android:src="@drawable/blue_push" />
+                <ImageView
+                    android:id="@+id/email3"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="55dp"
+                    android:src="@drawable/blue_email" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="@color/light_blue"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+          
+            
+          <LinearLayout
+                android:layout_width="fill_parent"
+                android:gravity="center_vertical"
+                android:layout_marginTop="2dp"
+                android:paddingTop="15dp"
+                android:background="@color/background_light_grey"
+                android:paddingBottom="15dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                     android:paddingLeft="10dp"
+                     android:textSize="30sp"
+                    android:text="When a backstage photo is rated" 
+                   android:textColor="@color/white"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+<ImageView
+                    android:id="@+id/push4"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="70dp"
+                    android:src="@drawable/blue_push" />
+                <ImageView
+                    android:id="@+id/email4"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="55dp"
+                    android:src="@drawable/blue_email" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="@color/light_blue"
+                android:orientation="vertical" >
+            </LinearLayout>
+           <LinearLayout
+                android:layout_width="fill_parent"
+                android:gravity="center_vertical"
+                 android:layout_marginTop="2dp"
+                android:paddingTop="15dp"
+                android:background="@color/background_light_grey"
+                android:paddingBottom="15dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:paddingLeft="10dp"
+                    android:textColor="@color/white"
+                    android:textSize="30sp"
+                    android:layout_height="wrap_content"
+                    android:text="When someone has liked you"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+<ImageView
+                    android:id="@+id/push5"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="70dp"
+                    android:src="@drawable/blue_push" />
+                <ImageView
+                    android:id="@+id/email5"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="55dp"
+                    android:src="@drawable/blue_email" />
+
+            </LinearLayout>
+             <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="@color/light_blue"
+                android:orientation="vertical" >
+            </LinearLayout>
+<LinearLayout
+                android:layout_width="fill_parent"
+                android:gravity="center_vertical"
+               android:layout_marginTop="2dp"
+                android:paddingTop="15dp"
+                android:background="@color/background_light_grey"
+                android:paddingBottom="15dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                   
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:paddingLeft="10dp"
+                    android:textSize="30sp"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                     android:text="When someone has fav'd you"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+<ImageView
+                    android:id="@+id/push6"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="70dp"
+                    android:src="@drawable/blue_push" />
+                <ImageView
+                    android:id="@+id/email6"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="55dp"
+                    android:src="@drawable/blue_email" />
+
+            </LinearLayout>
+            
+ <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="@color/light_blue"
+                android:orientation="vertical" >
+            </LinearLayout>
+         <LinearLayout
+                android:layout_width="fill_parent"
+                android:gravity="center_vertical"
+                android:layout_marginTop="2dp"
+                android:paddingTop="15dp"
+                android:background="@color/background_light_grey"
+                android:paddingBottom="15dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                   
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:paddingLeft="10dp"
+                    android:textSize="30sp"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:text="When someone sends you a gift"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+<ImageView
+                    android:id="@+id/push7"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="70dp"
+                    android:src="@drawable/blue_push" />
+                <ImageView
+                    android:id="@+id/email7"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="55dp"
+                    android:src="@drawable/blue_email" />
+
+            </LinearLayout>
+             <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:background="@color/light_blue"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:gravity="center_vertical"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:visibility="gone"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                   
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="5dp"
+                    android:text="Breaking News"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+<ImageView
+                    android:id="@+id/push8"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="30dp"
+                    android:src="@drawable/blue_push" />
+                <ImageView
+                    android:id="@+id/email8"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="3"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/blue_email" />
+
+            </LinearLayout>
+    
+  </LinearLayout>
+    </ScrollView>
+    <LinearLayout
+                android:layout_width="fill_parent"
+                android:gravity="center_horizontal"
+                android:paddingTop="8dp"
+                android:background="@color/background_light_grey"
+                android:paddingBottom="8dp"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="8"
+                android:orientation="horizontal"
+                android:layout_height="fill_parent" >
+<Button
+                   android:id="@+id/save"
+                    android:layout_width="150dp"
+                    android:textColor="@color/white"
+                    android:layout_height="fill_parent"
+                    android:textSize="35sp"
+                    android:text="Save"
+                    android:background="@drawable/rounded_blue_btn"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+       
+
+            </LinearLayout>
+</LinearLayout>

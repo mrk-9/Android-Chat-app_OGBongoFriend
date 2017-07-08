@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+<RelativeLayout
+    android:id="@+id/users_row"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+               android:padding="10dp"
+                android:background="@color/light_blue"
+                 >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gifts"
+        android:layout_centerInParent="true"
+        android:textColor="@color/white"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/redeem_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+    	android:background="@drawable/rounded_redeem_btn"
+    	android:textColor="@color/white"
+    	android:padding="3dp"
+    android:layout_centerVertical="true"
+        android:text="Redeem Gift" />
+
+            </RelativeLayout>
+
+    <TextView
+        android:id="@+id/nodata_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="No Data Found"
+        android:textColor="@color/white"
+        android:visibility="gone"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ListView
+         android:id="@+id/users_gift_list"
+                android:layout_below="@+id/users_row"
+                android:layout_width="match_parent"
+               android:background="@color/background_light_grey"
+                android:layout_height="fill_parent" >
+    </ListView>
+
+</RelativeLayout>

@@ -1,0 +1,201 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@+id/search_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:layout_below="@+id/header"
+        android:background="@color/background_grey"
+        android:gravity="center_vertical"
+        android:visibility="gone"
+        android:padding="10dp" >
+
+                <EditText
+                    android:id="@+id/key_to_search"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:imeOptions="actionSearch"
+                    android:inputType="text"
+                    android:ems="15" >
+
+                    <requestFocus />
+                </EditText>
+
+                <ImageView
+                    android:id="@+id/search_btn"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/search_over" />
+
+                <ImageView
+                    android:id="@+id/filter"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/filter" />
+
+            </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="fill_parent"
+        android:layout_height="70dp"
+        android:padding="10dp"
+        android:layout_below="@+id/border"
+         android:background="@color/light_blue"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="Standard Search"
+           android:layout_centerInParent="true"
+           android:textSize="30sp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+		
+			<Button
+            android:id="@+id/settingButton"
+           style="?android:attr/buttonStyleSmall"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:textColor="@color/white"
+           android:background="@drawable/setting_btn_animation"
+            android:layout_alignParentRight="true" />
+        <Button
+            android:id="@+id/filter_btn"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="100dp"
+            android:textSize="30sp"
+            android:layout_height="60dp"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/white"
+            android:background="@drawable/rounded_blue_btn"
+            android:layout_alignParentRight="true"
+            android:text="Filter" />
+
+    </RelativeLayout>
+    
+    
+    <LinearLayout
+    android:id="@+id/users_row"
+    android:layout_width="fill_parent"
+    android:layout_height="150dp"
+    android:background="#29b6ec"
+  
+    android:gravity="center_vertical" >
+
+               <LinearLayout
+                 android:layout_width="150dp"
+                 android:layout_height="150dp"
+                 android:background="@drawable/add_me_here"
+                 android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/promote_yourself"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+        </LinearLayout>
+
+                <HorizontalScrollView
+                    android:id="@+id/horizontalScrollView1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:scrollbars="none" >
+
+                    <LinearLayout
+                        android:id="@+id/parent_user_images"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:scrollbars="none" >
+                    </LinearLayout>
+                </HorizontalScrollView>
+            </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:id="@+id/border"
+        android:layout_below="@+id/users_row"
+        android:layout_height="1dp"
+        android:background="@drawable/border"
+        android:orientation="vertical" >
+    </LinearLayout>
+    
+           <!--  <GridView
+                android:id="@+id/user_of_city"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:columnWidth="100dp"
+       android:layout_below="@+id/search_layout" 
+        android:layout_margin="2dp"
+        android:numColumns="auto_fit"
+        android:stretchMode="columnWidth"
+           >
+            </GridView> -->
+
+    <com.handmark.pulltorefresh.library.PullToRefreshGridView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/user_of_city"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:columnWidth="140dp"
+        android:gravity="fill"
+        android:horizontalSpacing="1dp"
+        android:numColumns="auto_fit"
+        android:layout_below="@+id/search_layout"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="1dp"
+        ptr:ptrDrawable="@drawable/loading_arrow"
+        ptr:ptrMode="both" >
+    </com.handmark.pulltorefresh.library.PullToRefreshGridView>
+  
+    <RelativeLayout
+        android:id="@+id/popuplaout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/search_layout"
+        android:background="@color/black_trans"
+        android:visibility="gone" >
+
+        <RelativeLayout
+            
+            android:layout_width="330dp"
+             android:layout_alignParentRight="true"
+             
+            android:layout_height="wrap_content"
+           android:background="#8F8F8F" >
+
+            <ListView
+                android:id="@+id/custom_search_option_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:choiceMode="singleChoice"
+                  android:dividerHeight="1dp"
+                android:divider="@color/list_divider"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:listSelector="@drawable/list_selector" >
+            </ListView>
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/nodata_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+		android:layout_centerVertical="true"
+        android:text="No Data Found"
+        android:visibility="gone"
+        android:textSize="30sp"
+        android:textColor="@color/white"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</RelativeLayout>

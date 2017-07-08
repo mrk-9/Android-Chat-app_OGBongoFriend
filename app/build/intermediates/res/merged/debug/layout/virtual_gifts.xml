@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/baselayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="#E0ECF8">
+
+    <TextView
+        android:id="@+id/user_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@color/background_grey"
+        android:text="Send Gift to"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="bold"
+        android:visibility="visible" />
+
+    <GridView
+        android:id="@+id/gifts"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/user_name"
+        android:numColumns="2" >
+    </GridView>
+
+</RelativeLayout>

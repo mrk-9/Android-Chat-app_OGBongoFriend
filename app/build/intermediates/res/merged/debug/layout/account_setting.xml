@@ -1,0 +1,259 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_light_grey" >
+
+    
+     <!-- <RelativeLayout
+        android:id="@+id/r21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        >
+
+         <TextView
+             android:id="@+id/textView1"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Profile Settings"
+             android:textColor="@color/white"
+             android:textSize="20sp" />
+
+    </RelativeLayout>
+    
+    
+    <RelativeLayout
+        android:id="@+id/r1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_marginLeft="20dp"
+        android:layout_below="@+id/r21"
+        android:layout_marginTop="10dp"
+        >
+
+        <CheckBox
+            android:id="@+id/ps1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hide Account"
+            android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r1"
+        android:layout_marginLeft="20dp"
+        >
+
+        <CheckBox
+            android:id="@+id/ps2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Push Notifications" 
+             android:textColor="@color/white"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r2"
+        android:layout_marginLeft="20dp">
+
+        <CheckBox
+            android:id="@+id/ps3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="E-Mail Notofications"
+             android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r3"
+        android:layout_marginLeft="20dp">
+
+        <CheckBox
+            android:id="@+id/ps4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Recieve Notifications via SMS" 
+             android:textColor="@color/white"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r4"
+        android:layout_marginLeft="20dp">
+
+        <CheckBox
+            android:id="@+id/ps5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CheckBox"
+             android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r5"
+        android:layout_marginLeft="20dp">
+
+        <CheckBox
+            android:id="@+id/ps6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CheckBox"
+             android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r7"
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/r6"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true" 
+        android:layout_marginLeft="20dp">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save"
+             />
+
+    </RelativeLayout> -->
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" >
+
+    </ListView>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:paddingBottom="10dp"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/account"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_bw_editText"
+               android:textColor="@color/white"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="@string/account" />
+
+            <Button
+                android:id="@+id/notification"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginTop="@dimen/margin_bw_editText"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="@string/notification" />
+
+            <Button
+                android:id="@+id/verification"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                 android:textColor="@color/white"
+                  android:layout_marginTop="@dimen/margin_bw_editText"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="@string/verification" />
+            
+            <Button
+                android:id="@+id/feedback"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                 android:textColor="@color/white"
+                  android:layout_marginTop="@dimen/margin_bw_editText"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="@string/feedback" />
+            
+            <Button
+                android:id="@+id/payment"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                 android:textColor="@color/white"
+                  android:layout_marginTop="@dimen/margin_bw_editText"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="@string/payment_settings" />
+
+            <Button
+                android:id="@+id/terms"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                 android:layout_marginTop="@dimen/margin_bw_editText"
+                 android:textColor="@color/white"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="@string/terms"/>
+
+            <Button
+                android:id="@+id/privacy"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                 android:textColor="@color/white"
+                  android:layout_marginTop="@dimen/margin_bw_editText"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="@string/privacy" />
+
+            <Button
+                android:id="@+id/disclaimer"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                 android:textColor="@color/white"
+                  android:layout_marginTop="@dimen/margin_bw_editText"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="@string/disclaimer" />
+
+            <Button
+                android:id="@+id/aboutus"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                 android:textColor="@color/white"
+                  android:layout_marginTop="@dimen/margin_bw_editText"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="@string/about_us" />
+
+           
+            <Button
+                android:id="@+id/how_it_works"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                 android:textColor="@color/white"
+                  android:layout_marginTop="@dimen/margin_bw_editText"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="@string/how_it_works" />
+            
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</RelativeLayout>

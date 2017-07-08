@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/list_divider" >
+
+    <EditText
+        android:id="@+id/rgisemail"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:focusableInTouchMode="false"
+        android:background="#ffffff"
+       android:layout_margin="10dp"
+        android:ems="10" >
+    </EditText>
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/rgisemail"
+        android:layout_alignRight="@+id/rgisemail"
+        android:layout_alignTop="@+id/rgisemail"
+        android:padding="10dp"
+        android:src="@drawable/arrow" />
+
+</RelativeLayout>

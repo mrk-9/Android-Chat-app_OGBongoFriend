@@ -1,0 +1,1385 @@
+[
+    {
+        "outputFile": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\values-mdpi-v4\\values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 63,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\FacebookSDK\\unspecified\\res\\values-mdpi-v4\\values-mdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 46,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 9,
+                        "startOffset": 314,
+                        "endColumn": 51,
+                        "endOffset": 356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 54,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 11,
+                        "startOffset": 1190,
+                        "endColumn": 61,
+                        "endOffset": 1240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 49,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 11,
+                        "startOffset": 1133,
+                        "endColumn": 56,
+                        "endOffset": 1178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 49,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 12,
+                        "startOffset": 1076,
+                        "endColumn": 57,
+                        "endOffset": 1121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 48,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 5,
+                        "startOffset": 1295,
+                        "endColumn": 49,
+                        "endOffset": 1339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endColumn": 51,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 9,
+                        "startOffset": 908,
+                        "endColumn": 56,
+                        "endOffset": 955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 48,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 9,
+                        "startOffset": 854,
+                        "endColumn": 53,
+                        "endOffset": 898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 48,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 6,
+                        "startOffset": 205,
+                        "endColumn": 50,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 634,
+                    "endColumn": 49,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 9,
+                        "startOffset": 259,
+                        "endColumn": 54,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 43,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 9,
+                        "startOffset": 526,
+                        "endColumn": 48,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 49,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 9,
+                        "startOffset": 575,
+                        "endColumn": 54,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endColumn": 46,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 9,
+                        "startOffset": 630,
+                        "endColumn": 51,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 42,
+                    "endOffset": 863
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 9,
+                        "startOffset": 478,
+                        "endColumn": 47,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 868,
+                    "endColumn": 52,
+                    "endOffset": 916
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 9,
+                        "startOffset": 682,
+                        "endColumn": 57,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 921,
+                    "endColumn": 51,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 9,
+                        "startOffset": 740,
+                        "endColumn": 56,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 49,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 9,
+                        "startOffset": 366,
+                        "endColumn": 54,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endColumn": 50,
+                    "endOffset": 1069
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 10,
+                        "startOffset": 422,
+                        "endColumn": 56,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1074,
+                    "endColumn": 51,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 9,
+                        "startOffset": 797,
+                        "endColumn": 56,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1126,
+                    "endColumn": 44,
+                    "endOffset": 1166
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 10,
+                        "startOffset": 966,
+                        "endColumn": 50,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1171,
+                    "endColumn": 49,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 11,
+                        "startOffset": 1018,
+                        "endColumn": 56,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endColumn": 48,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1245,
+                        "endColumn": 48,
+                        "endOffset": 1289
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\values-mdpi-v4\\values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 63,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\FacebookSDK\\unspecified\\res\\values-mdpi-v4\\values-mdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 46,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 9,
+                        "startOffset": 314,
+                        "endColumn": 51,
+                        "endOffset": 356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 54,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 11,
+                        "startOffset": 1190,
+                        "endColumn": 61,
+                        "endOffset": 1240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 49,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 11,
+                        "startOffset": 1133,
+                        "endColumn": 56,
+                        "endOffset": 1178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 49,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 12,
+                        "startOffset": 1076,
+                        "endColumn": 57,
+                        "endOffset": 1121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 48,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 5,
+                        "startOffset": 1295,
+                        "endColumn": 49,
+                        "endOffset": 1339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endColumn": 51,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 9,
+                        "startOffset": 908,
+                        "endColumn": 56,
+                        "endOffset": 955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 48,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 9,
+                        "startOffset": 854,
+                        "endColumn": 53,
+                        "endOffset": 898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 48,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 6,
+                        "startOffset": 205,
+                        "endColumn": 50,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 634,
+                    "endColumn": 49,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 9,
+                        "startOffset": 259,
+                        "endColumn": 54,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 43,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 9,
+                        "startOffset": 526,
+                        "endColumn": 48,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 49,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 9,
+                        "startOffset": 575,
+                        "endColumn": 54,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endColumn": 46,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 9,
+                        "startOffset": 630,
+                        "endColumn": 51,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 42,
+                    "endOffset": 863
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 9,
+                        "startOffset": 478,
+                        "endColumn": 47,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 868,
+                    "endColumn": 52,
+                    "endOffset": 916
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 9,
+                        "startOffset": 682,
+                        "endColumn": 57,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 921,
+                    "endColumn": 51,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 9,
+                        "startOffset": 740,
+                        "endColumn": 56,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 49,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 9,
+                        "startOffset": 366,
+                        "endColumn": 54,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endColumn": 50,
+                    "endOffset": 1069
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 10,
+                        "startOffset": 422,
+                        "endColumn": 56,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1074,
+                    "endColumn": 51,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 9,
+                        "startOffset": 797,
+                        "endColumn": 56,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1126,
+                    "endColumn": 44,
+                    "endOffset": 1166
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 10,
+                        "startOffset": 966,
+                        "endColumn": 50,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1171,
+                    "endColumn": 49,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 11,
+                        "startOffset": 1018,
+                        "endColumn": 56,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endColumn": 48,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1245,
+                        "endColumn": 48,
+                        "endOffset": 1289
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\values-mdpi-v4\\values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 63,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\exploded-aar\\OgbongeFriends5\\FacebookSDK\\unspecified\\res\\values-mdpi-v4\\values-mdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 46,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 9,
+                        "startOffset": 314,
+                        "endColumn": 51,
+                        "endOffset": 356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 54,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 11,
+                        "startOffset": 1190,
+                        "endColumn": 61,
+                        "endOffset": 1240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 49,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 11,
+                        "startOffset": 1133,
+                        "endColumn": 56,
+                        "endOffset": 1178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 49,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 12,
+                        "startOffset": 1076,
+                        "endColumn": 57,
+                        "endOffset": 1121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 48,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 5,
+                        "startOffset": 1295,
+                        "endColumn": 49,
+                        "endOffset": 1339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endColumn": 51,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 9,
+                        "startOffset": 908,
+                        "endColumn": 56,
+                        "endOffset": 955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 48,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 9,
+                        "startOffset": 854,
+                        "endColumn": 53,
+                        "endOffset": 898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 48,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 6,
+                        "startOffset": 205,
+                        "endColumn": 50,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 634,
+                    "endColumn": 49,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 9,
+                        "startOffset": 259,
+                        "endColumn": 54,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 43,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 9,
+                        "startOffset": 526,
+                        "endColumn": 48,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 49,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 9,
+                        "startOffset": 575,
+                        "endColumn": 54,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endColumn": 46,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 9,
+                        "startOffset": 630,
+                        "endColumn": 51,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 42,
+                    "endOffset": 863
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 9,
+                        "startOffset": 478,
+                        "endColumn": 47,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 868,
+                    "endColumn": 52,
+                    "endOffset": 916
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 9,
+                        "startOffset": 682,
+                        "endColumn": 57,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 921,
+                    "endColumn": 51,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 9,
+                        "startOffset": 740,
+                        "endColumn": 56,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 49,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 9,
+                        "startOffset": 366,
+                        "endColumn": 54,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endColumn": 50,
+                    "endOffset": 1069
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 10,
+                        "startOffset": 422,
+                        "endColumn": 56,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1074,
+                    "endColumn": 51,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 9,
+                        "startOffset": 797,
+                        "endColumn": 56,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1126,
+                    "endColumn": 44,
+                    "endOffset": 1166
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 10,
+                        "startOffset": 966,
+                        "endColumn": 50,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1171,
+                    "endColumn": 49,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 11,
+                        "startOffset": 1018,
+                        "endColumn": 56,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endColumn": 48,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1245,
+                        "endColumn": 48,
+                        "endOffset": 1289
+                    }
+                }
+            }
+        ]
+    }
+]

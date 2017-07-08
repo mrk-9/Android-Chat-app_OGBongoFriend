@@ -1,0 +1,189 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/new_bg" >
+
+   
+        <RelativeLayout
+            android:id="@+id/rl1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="@dimen/login_margin_left"
+            android:layout_marginRight="@dimen/login_margin_right"
+            android:layout_marginTop="60dp"
+             android:layout_centerInParent="true" 
+            android:gravity="bottom" >
+
+          
+                <Button
+                    android:id="@+id/login"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/editText_height"
+                    android:layout_below="@+id/editText2"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="15dp"
+                    android:background="@drawable/logi_btn"
+                    android:text="@string/login_text"
+                    android:textColor="#ffffff"
+                    android:textSize="20dp" />
+
+                 <EditText
+                    android:id="@+id/editText1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/editText_height"
+                    android:ems="10"
+                     android:layout_alignParentTop="true"
+                    android:hint="Email"
+                    android:inputType="textEmailAddress"
+                    android:paddingLeft="5dp"
+                 
+                    android:background="@drawable/edit_text_bc"
+                    android:textColorHint="@color/black" />
+                
+                <EditText
+                    android:id="@+id/editText2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/editText_height"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/edit_text_bc"
+                    android:ems="10"
+                    android:hint="Password"
+                    android:layout_below="@+id/editText1"
+                    android:inputType="textPassword"
+                    android:paddingLeft="5dp"
+                    android:layout_marginTop="10dp"
+                    android:textColorHint="@color/black" />
+
+               
+
+           
+        </RelativeLayout>
+        
+        
+        <TextView
+        android:id="@+id/createAccount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/rl1"
+        android:layout_below="@+id/rl1"
+        android:layout_marginTop="15dp"
+        android:text="Create a Ogbonge Account"
+        android:textColor="@color/create_account"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+        <TextView
+        android:id="@+id/forgetPass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/rl1"
+        android:layout_below="@+id/createAccount"
+        android:layout_marginTop="5dp"
+        android:text="Forgot Password"
+        android:textColor="@color/forgot_password"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+   
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="bottom" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/sign_up_image" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="15dp" >
+
+                <ImageView
+                    android:id="@+id/facebook_signUp"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:src="@drawable/facebook" />
+
+                <ImageView
+                    android:id="@+id/twiter"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:src="@drawable/twitter" />
+
+                <ImageView
+                    android:id="@+id/google"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:src="@drawable/google" />
+
+                <ImageView
+                    android:id="@+id/linkedIn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:src="@drawable/linkden" />
+
+                <ImageView
+                    android:id="@+id/yahoo"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:visibility="gone"
+                    android:src="@drawable/yahoo" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/red_crystal"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/red_crystal" />
+
+    <ImageView
+        android:id="@+id/gerrn_crystal"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/red_crystal"
+        android:src="@drawable/green_crystal" />
+
+    <ImageView
+        android:id="@+id/pinc_crystal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/gerrn_crystal"
+        android:src="@drawable/pink_crystal" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/logo_margin_top"
+        android:src="@drawable/logo"
+        />
+
+</RelativeLayout>

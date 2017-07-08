@@ -1,0 +1,209 @@
+-injars 'E:\Android\Android Tasks\OgbongeProject\OgbongeFriends5\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'E:\Android\Android Tasks\OgbongeProject\OgbongeFriends5\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'E:\Android\Android\AndroidSDK\build-tools\23.0.1\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'E:\Android\Android Tasks\OgbongeProject\OgbongeFriends5\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.ogbongefriends.com.ogbonge.invite.FriendPickerApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.ogbongefriends.com.Splash {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.DrawerActivity {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.Login.FacebookSignUp {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.Login.facebookVerification {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.ogbonge.invite.FriendPickerSampleActivity {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.Login.LinkedInSignup {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.ogbonge.photos.AddPhotoOptionClass {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.Login.LoginActivity {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.Login.twitterLogin {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.Login.homePage {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.chat.ChatWebView {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.chat.VideoRecordingActivity {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.chat.imageCaptureActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.chat.newClass {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.common.WebViewActivity {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.register.Registration {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.register.Registration_2 {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.register.Terms_And_Condition {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.common.MultipleImageSelecterActivity {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.common.AndroidCustomGalleryActivity {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.common.GalleryActivity {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.chat.AudioPlaybackActivity {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.ogbonge.profile.UpdateProfileInfo {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.Login.Forget_Password {
+    <init>();
+}
+
+-keep class com.soundcloud.android.crop.CropImageActivity {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.PayPalService {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.chat.VideoUploadService {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.PaymentActivity {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.LoginActivity {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.PaymentMethodActivity {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.PaymentConfirmActivity {
+    <init>();
+}
+
+-keep class io.card.payment.CardIOActivity {
+    <init>();
+}
+
+-keep class io.card.payment.DataEntryActivity {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.ogbonge.push_notification.GcmBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.custom.YourActivityRunOnStartup {
+    <init>();
+}
+
+-keep class com.ogbongefriends.com.ogbonge.push_notification.GcmIntentService {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.appinvite.PreviewActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

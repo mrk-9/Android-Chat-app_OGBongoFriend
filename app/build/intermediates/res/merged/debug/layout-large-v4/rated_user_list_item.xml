@@ -1,0 +1,102 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/list_selector" 
+        >
+
+        <ImageView
+            android:id="@+id/user_image"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:id="@+id/user_name_age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:textSize="25sp"
+            android:layout_toRightOf="@+id/user_image"
+            android:text="TextView"
+            android:textColor="#FFFFFF"
+           />
+
+        <ProgressBar
+            android:id="@+id/progressBar1"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/user_image"
+            android:layout_alignTop="@+id/user_name_age"
+            android:layout_marginLeft="30dp"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/rating_by_users"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:layout_alignLeft="@+id/user_name_age"
+             android:layout_below="@+id/user_name_age" >
+
+            <ImageView
+                android:id="@+id/rating_star1"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/no_rating" />
+
+            <ImageView
+                android:id="@+id/rating_star2"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/no_rating" />
+
+            <ImageView
+                android:id="@+id/rating_star3"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/no_rating" />
+
+            <ImageView
+                android:id="@+id/rating_star4"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/no_rating" />
+
+            <ImageView
+                android:id="@+id/rating_star5"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/no_rating" />
+
+            <TextView
+                android:id="@+id/rate"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+               
+                android:textColor="@color/white"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/rated_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/user_name_age"
+            android:textSize="25sp"
+            android:layout_marginTop="5dp"
+            android:layout_below="@+id/rating_by_users"
+            android:text="7 day pass "
+            android:textColor="@color/white"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+
+    
+    <RelativeLayout
+    android:id="@+id/cash_for_points"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/light_blue"
+    android:padding="10dp" >
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+          <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/about_points"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#0000FF"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/basic_steps"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                  android:textColor="#0000FF"
+                  android:layout_marginTop="10dp"
+                android:text="Here are some basic steps to convert it into Cash Money."
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#0000FF"
+                android:textStyle="bold"
+                android:text="Conversion Details:"
+                 android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:padding="5dp"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="2"
+                android:gravity="center_vertical"
+                android:textColor="#0000FF"
+                android:text="Reference Id" />
+
+            <EditText
+                android:id="@+id/reference_id"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:padding="5dp"
+                android:background="@drawable/layout_corners"
+                android:inputType="number" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:padding="5dp"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="fill_parent"
+                android:layout_weight="2"
+                android:gravity="center_vertical"
+                android:layout_height="fill_parent"
+                android:textColor="#0000FF"
+                android:text="Current Points" />
+
+            <EditText
+                android:id="@+id/current_points"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                 android:padding="5dp"
+                android:background="@drawable/layout_corners"
+                android:inputType="number" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+             android:padding="5dp"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView5"
+              android:layout_width="fill_parent"
+                android:layout_weight="2"
+                android:gravity="center_vertical"
+                android:layout_height="fill_parent"
+                android:textColor="#0000FF"
+                android:text="Convert Points" />
+
+            <EditText
+                android:id="@+id/convert_points"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                 android:padding="5dp"
+                 android:background="@drawable/layout_corners"
+                android:inputType="number"
+                android:maxLength="6" >
+
+                <requestFocus />
+            </EditText>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:padding="5dp"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="fill_parent"
+                android:layout_weight="2"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+               android:textColor="#0000FF"
+                android:text="Remaining Points" />
+
+            <EditText
+                android:id="@+id/remaining_points"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                 android:padding="5dp"
+                 android:background="@drawable/layout_corners"
+                android:inputType="number" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:padding="5dp"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="fill_parent"
+                android:layout_weight="2"
+                android:gravity="center_vertical"
+                android:layout_height="fill_parent"
+                android:textColor="#0000FF"
+                android:text="Amount Payable(₦)" />
+
+            <EditText
+                android:id="@+id/amount_paybable"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                 android:padding="5dp"
+                 android:background="@drawable/layout_corners"
+                android:inputType="numberDecimal" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:text="Bank Details:"
+            android:textStyle="bold"
+            android:gravity="center_vertical"
+           android:textColor="#0000FF"
+            android:layout_marginTop="20dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:padding="5dp"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="fill_parent"
+                android:layout_weight="2"
+                android:gravity="center_vertical"
+                android:layout_height="fill_parent"
+               android:textColor="#0000FF"
+                android:text="Bank Name" />
+
+            <EditText
+                android:id="@+id/bank_name"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                 android:padding="5dp"
+                 android:background="@drawable/layout_corners"
+                android:ems="10" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:padding="5dp"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView9"
+               android:layout_width="fill_parent"
+                android:layout_weight="2"
+                android:gravity="center_vertical"
+                android:layout_height="fill_parent"
+                 android:textColor="#0000FF"
+                android:text="Account Holder Name" />
+
+            <EditText
+                android:id="@+id/account_holder"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                 android:padding="5dp"
+                 android:background="@drawable/layout_corners"
+                android:ems="10" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:padding="5dp"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="fill_parent"
+                android:layout_weight="2"
+                android:gravity="center_vertical"
+                android:layout_height="fill_parent"
+               android:textColor="#0000FF"
+                android:text="Account number" />
+
+            <EditText
+                android:id="@+id/account_number"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:inputType="number"
+                 android:padding="5dp"
+                android:background="@drawable/layout_corners"
+                android:ems="10" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="30dp"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/proceed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Proceed"
+                android:textColor="@color/white"
+                android:padding="20dp"
+                android:background="@drawable/rounded_green_btn" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+        </ScrollView>
+
+    
+
+</RelativeLayout>
+    
+</LinearLayout>

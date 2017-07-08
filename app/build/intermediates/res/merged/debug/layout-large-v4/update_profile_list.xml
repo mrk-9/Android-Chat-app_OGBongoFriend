@@ -1,0 +1,232 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_light_grey" >
+
+    
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" >
+    </ListView>
+
+    <RelativeLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_light_grey" >
+
+    
+     <!-- <RelativeLayout
+        android:id="@+id/r21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        >
+
+         <TextView
+             android:id="@+id/textView1"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Profile Settings"
+             android:textColor="@color/white"
+             android:textSize="20sp" />
+
+    </RelativeLayout>
+    
+    
+    <RelativeLayout
+        android:id="@+id/r1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_marginLeft="20dp"
+        android:layout_below="@+id/r21"
+        android:layout_marginTop="10dp"
+        >
+
+        <CheckBox
+            android:id="@+id/ps1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hide Account"
+            android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r1"
+        android:layout_marginLeft="20dp"
+        >
+
+        <CheckBox
+            android:id="@+id/ps2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Push Notifications" 
+             android:textColor="@color/white"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r2"
+        android:layout_marginLeft="20dp">
+
+        <CheckBox
+            android:id="@+id/ps3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="E-Mail Notofications"
+             android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r3"
+        android:layout_marginLeft="20dp">
+
+        <CheckBox
+            android:id="@+id/ps4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Recieve Notifications via SMS" 
+             android:textColor="@color/white"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r4"
+        android:layout_marginLeft="20dp">
+
+        <CheckBox
+            android:id="@+id/ps5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CheckBox"
+             android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/r5"
+        android:layout_marginLeft="20dp">
+
+        <CheckBox
+            android:id="@+id/ps6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CheckBox"
+             android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r7"
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/r6"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true" 
+        android:layout_marginLeft="20dp">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save"
+             />
+
+    </RelativeLayout> -->
+
+   
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:paddingBottom="10dp"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/basic"
+                android:layout_width="fill_parent"
+                android:layout_height="80dp"
+                android:layout_marginTop="35dp"
+               android:textColor="@color/white"
+               android:textSize="30sp"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="@string/basic_info" />
+
+            <Button
+                android:id="@+id/contact"
+                android:layout_width="fill_parent"
+                android:layout_height="80dp"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+               
+                android:layout_marginTop="35dp"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="@string/contact_details" />
+
+            <Button
+                android:id="@+id/about"
+                android:layout_width="fill_parent"
+                android:layout_height="80dp"
+                 android:textColor="@color/white"
+                 android:textSize="30sp"
+                  android:layout_marginTop="35dp"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="@string/about_me" />
+            
+            <Button
+                android:id="@+id/interested"
+                android:layout_width="fill_parent"
+                android:layout_height="80dp"
+                 android:textColor="@color/white"
+                 android:textSize="30sp"
+                  android:layout_marginTop="35dp"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="@string/interested_in" />
+            
+            <Button
+                android:id="@+id/personal"
+                android:layout_width="fill_parent"
+                android:layout_height="80dp"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginTop="35dp"
+                android:background="@drawable/rounded_blue_btn"
+                android:text="@string/personal_info" />
+
+           
+
+           
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</RelativeLayout>
+    
+</RelativeLayout>

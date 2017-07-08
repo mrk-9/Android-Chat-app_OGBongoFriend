@@ -1,0 +1,101 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white" 
+        android:padding="5dp"
+        >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="140dp"
+            android:layout_height="130dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:src="@drawable/profile" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/imageView1"
+            android:text="TextView"
+            android:textColor="@color/black"
+            android:textSize="@dimen/side_menu_txt" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/imageView1"
+            android:layout_alignParentRight="true"
+            android:textColor="#FFFFFF"
+             android:textSize="@dimen/side_menu_txt"
+            android:text="" />
+
+        <ProgressBar
+            android:id="@+id/progressBar1"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imageView1"
+            android:layout_alignTop="@+id/textView1"
+            android:layout_marginLeft="30dp"
+            android:visibility="gone" />
+        
+        <TextView
+            android:id="@+id/points_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView1"
+            android:layout_marginTop="2dp"
+             android:layout_below="@+id/textView1"
+            android:text="Total Points:"
+             android:textColor="@color/black"
+              android:textSize="@dimen/side_menu_txt"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/points"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView1"
+            android:layout_alignBaseline="@+id/points_text"
+            android:layout_toRightOf="@+id/points_text"
+            android:textSize="@dimen/side_menu_txt"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#4F7942" />
+
+        <TextView
+            android:id="@+id/pass_7_days"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView1"
+            android:layout_below="@+id/points_text"
+            android:layout_marginTop="2dp"
+          
+          	android:visibility="gone"
+            android:text="In 7 day pass you have left"
+             android:textSize="@dimen/side_menu_txt"
+            android:textColor="@color/red"/>
+       
+        <TextView
+            android:id="@+id/pass_7_day_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView1"
+            android:layout_below="@+id/pass_7_days"
+            android:layout_marginTop="3dp"
+             android:textSize="@dimen/side_menu_txt"
+            android:textColor="@color/red"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

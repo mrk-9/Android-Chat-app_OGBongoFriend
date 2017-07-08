@@ -1,0 +1,130 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+  
+     >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/create_event"
+        android:layout_alignParentLeft="true" >
+
+        <ListView
+            android:id="@+id/place_list_data"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@+id/eventtype"
+            android:layout_marginTop="2dp"
+            android:dividerHeight="4dp"
+            android:footerDividersEnabled="false" />
+
+        <ListView
+            android:id="@+id/mypost"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@+id/eventtype"
+            android:layout_marginTop="2dp"
+            android:dividerHeight="4dp"
+            android:footerDividersEnabled="false" />
+        
+        <ListView
+            android:id="@+id/mydate"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@+id/eventtype"
+            android:layout_marginTop="2dp"
+            android:dividerHeight="4dp"
+            android:footerDividersEnabled="false" />
+        
+        <TextView
+            android:id="@+id/empty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="you have no dates/posts presently"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+        <RelativeLayout
+            android:id="@+id/eventtype"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/light_blue"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true" >
+
+            <Button
+                android:id="@+id/myevents"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/attendingevents"
+                android:text="All Posts"
+                android:background="#00000000"
+                android:textSize="@dimen/side_menu_txt" />
+
+             <Button
+                android:id="@+id/attendingevents"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:text="My Posts"
+                 android:background="#00000000"
+                android:textSize="@dimen/side_menu_txt" />
+
+             <Button
+                 android:id="@+id/date"
+                 android:layout_width="wrap_content"
+                 android:layout_height="50dp"
+                 android:layout_alignParentRight="true"
+                 android:layout_alignParentTop="true"
+                 android:layout_toRightOf="@+id/attendingevents"
+                 android:text="Date"
+                  android:background="#00000000"
+                 android:textSize="@dimen/side_menu_txt" />
+            
+            
+            <View
+                android:id="@+id/v1"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true" />
+
+            <View
+                android:id="@+id/buttonview"
+                android:layout_width="100dp"
+                android:layout_height="10dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:background="#0000FF" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+   
+
+    <LinearLayout
+         android:id="@+id/create_event"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:background="@color/background_grey"
+         android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+        
+         <Button
+       android:id="@+id/create_event_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:background="@drawable/rounded_redeem_btn"
+       android:padding="10dp"
+       android:textColor="@color/white"
+        android:text="Create New Event" />
+    </LinearLayout>
+
+</RelativeLayout>

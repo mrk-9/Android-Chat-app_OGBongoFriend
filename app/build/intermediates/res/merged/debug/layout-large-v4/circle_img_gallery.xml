@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/black">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+         android:layout_height="fill_parent" >
+
+        <Gallery
+            android:id="@+id/circle_gallery"
+            android:layout_width="fill_parent"
+             android:layout_height="fill_parent"
+            />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="2dp"
+            android:layout_alignParentBottom="true" >
+       
+
+        <LinearLayout
+            			android:id="@+id/rating_parent"
+                        android:layout_width="fill_parent"
+                        android:layout_height="45dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/rounded_edge_grey_bg"
+                        
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:padding="5dp" >
+
+                        <ImageView
+                            android:id="@+id/rate1_img"
+                            android:layout_width="30dp"
+                            android:layout_weight="1"
+                            android:layout_height="30dp"
+                            android:layout_marginLeft="5dp"
+                            android:src="@drawable/no_rating" />
+
+                        <ImageView
+                            android:id="@+id/rate2_img"
+                            android:layout_width="30dp"
+                            android:layout_weight="1"
+                            android:layout_height="30dp"
+                            android:layout_marginLeft="5dp"
+                            android:contentDescription="@null"
+                            android:src="@drawable/no_rating" />
+
+                        <ImageView
+                            android:id="@+id/rate3_img"
+                            android:layout_width="30dp"
+                            android:layout_weight="1"
+                            android:layout_height="30dp"
+                            android:layout_marginLeft="5dp"
+                            android:contentDescription="@null"
+                            android:src="@drawable/no_rating" />
+
+                        <ImageView
+                            android:id="@+id/rate4_img"
+                            android:layout_width="30dp"
+                            android:layout_weight="1"
+                            android:layout_height="30dp"
+                            android:layout_marginLeft="5dp"
+                            android:contentDescription="@null"
+                            android:src="@drawable/no_rating" />
+
+                        <ImageView
+                            android:id="@+id/rate5_img"
+                           android:layout_width="30dp"
+                            android:layout_weight="1"
+                            android:layout_height="30dp"
+                            android:layout_marginLeft="5dp"
+                            android:contentDescription="@null"
+                            android:src="@drawable/no_rating" />
+
+                        <TextView
+                            android:id="@+id/rating_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                           	android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                    </LinearLayout>
+                    
+        <LinearLayout
+            			android:id="@+id/comment_parent"
+                        android:layout_width="fill_parent"
+                        android:layout_height="45dp"
+                         android:layout_weight="0.8"
+                        android:gravity="center"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/rounded_edge_grey_bg">
+
+                        <TextView
+                            android:id="@+id/comment_count"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                          
+                            android:textColor="@color/white"
+                            android:textSize="20sp"
+                         />
+
+                    </LinearLayout>
+                     </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1.3"
+            android:background="@drawable/rounded_edge_grey_bg"
+            android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/camera_rate"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_weight="1"
+                android:contentDescription="@null"
+                android:padding="3dp"
+                android:src="@drawable/white_camera" />
+
+            <TextView
+                android:id="@+id/img_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="3dp"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+        </LinearLayout>
+        
+    </RelativeLayout>
+    
+</LinearLayout>

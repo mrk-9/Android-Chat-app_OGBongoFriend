@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="320dp"
+    
+    android:background="@drawable/pop_up_bg"
+  >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="30dp" >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Free Points"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/message"
+            android:layout_width="477dp"
+            android:layout_height="wrap_content"
+           
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:text="You got 25 points for Login Open Ogbonge tommorow to get 5 free points!"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:gravity="center_horizontal" >
+
+            <Button
+                    android:id="@+id/ok_btn"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="100dp"
+                    android:background="@drawable/rounded_green_btn"
+                    android:textColor="@color/white"
+                    android:layout_height="fill_parent"
+                    android:textSize="25sp"
+                    android:text="Ok" />
+
+            <Button
+                android:id="@+id/cancel_btn"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="100dp"
+                android:layout_height="fill_parent"
+                android:background="@drawable/rounded_blue_btn"
+                    android:textColor="@color/white"
+                android:layout_marginLeft="20dp"
+                android:padding="10dp"
+                android:text="Cancel"
+                android:textSize="25sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

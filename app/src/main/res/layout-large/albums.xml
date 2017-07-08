@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/bottom"
+        android:orientation="vertical" >
+
+        <GridView
+            android:id="@+id/my_photos"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:numColumns="3" >
+        </GridView>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/no_photo_found"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textSize="25sp"
+        android:text="No Photos found to show"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_margin="2dp"
+        android:id="@+id/bottom"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="9" >
+
+        <Button
+            android:id="@+id/addMorePhoto"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:textSize="30sp"
+            android:background="@drawable/rounded_edge_dark_grey"
+            android:text="Add More Photos"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/del_photos"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:textSize="30sp"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/rounded_edge_dark_grey"
+            android:text="Delete Photos"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+</RelativeLayout>

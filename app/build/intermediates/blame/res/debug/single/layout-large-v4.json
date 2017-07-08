@@ -1,0 +1,1430 @@
+[
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\menu_custom_row.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\menu_custom_row.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\terms_condition.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\terms_condition.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\audio_rec.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\audio_rec.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\rated_user_list_item.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\rated_user_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_basic_info.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_basic_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\date_time_picker.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\date_time_picker.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\webview.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\webview.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\list.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\list.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\listitem.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\listitem.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\member_profile.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\member_profile.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_profile_info.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_profile_info.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\ln_dialog.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\ln_dialog.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\news_detail.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\news_detail.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\setting_single_text.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\setting_single_text.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\emoticons_popup.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\emoticons_popup.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\personal_information.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\personal_information.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_splash.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\feedback.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\feedback.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_about_me.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_about_me.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\change_password.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\change_password.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\member_album.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\member_album.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\transaction_details.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\transaction_details.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\emoticons_popup.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\emoticons_popup.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\confirmation_dialog.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\confirmation_dialog.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gallery_element.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gallery_element.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\program_list.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\program_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gift_with_user_row.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gift_with_user_row.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\message_to_block.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\message_to_block.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\terms_condition.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\terms_condition.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\comment_list.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\comment_list.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\registration_2.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\registration_2.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\news_detail.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\news_detail.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\webview.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\webview.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\circle_img_gallery.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\circle_img_gallery.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\event_category_row.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\event_category_row.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\member_album.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\member_album.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\notification_custom_remote.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\notification_custom_remote.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\update_profile_info.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\update_profile_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\galleryitem.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\galleryitem.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\custom.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\custom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\social_register.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\social_register.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\comment_itm_row.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\comment_itm_row.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gellary_item.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gellary_item.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\setting_single_text.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\setting_single_text.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\album_row.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\album_row.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_chat_menu.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\dialog_chat_menu.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\linkedin_signup.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\linkedin_signup.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\list.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\list.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gift_with_user_row.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gift_with_user_row.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\program_list.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\program_list.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\white_list_row_item.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\white_list_row_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\promote_fragment.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\promote_fragment.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\full_user_profile.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\full_user_profile.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\basic_info.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\basic_info.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\event_category_row.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\event_category_row.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_webview.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\activity_webview.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\circle_img_gallery.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\circle_img_gallery.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\menu_custom_row.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\menu_custom_row.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gift_row.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gift_row.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\update_profile_list.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\update_profile_list.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\list_item_chat.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\list_item_chat.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\custom.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\custom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\place_followers_list_item.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\place_followers_list_item.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_gift_list.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_gift_list.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\forget_password.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\forget_password.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\place_followers_list_item.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\place_followers_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\menu_item_profile_row.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\menu_item_profile_row.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\profilepage.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\profilepage.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\events_list_item.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\events_list_item.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\send_msg_box.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\send_msg_box.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\messagestrip.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\messagestrip.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gift_with_user_row.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gift_with_user_row.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\account_setting.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\account_setting.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\custom_progress_view.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\custom_progress_view.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\full_user_profile.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\full_user_profile.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\galleryitem.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\galleryitem.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\transaction_details.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\transaction_details.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\search.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\search.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\multi_pic_selection.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\multi_pic_selection.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\circle_img_gallery.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\circle_img_gallery.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\paymentwebview.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\paymentwebview.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\notification_custom_remote.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\notification_custom_remote.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\comment_itm_row.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\comment_itm_row.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\white_list_row_item.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\white_list_row_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\verification.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\verification.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\first_fragment.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\first_fragment.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\photo_of_you_gallery.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\photo_of_you_gallery.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\menu_item_row.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\menu_item_row.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\setting_row.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\setting_row.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\feedback.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\feedback.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\promote_yourself.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\promote_yourself.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\listitem.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\listitem.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\custom_progress_view.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\custom_progress_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\login.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\login.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\galley_img.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\galley_img.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\message_to_block.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\message_to_block.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\personal_information.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\personal_information.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gallery_item.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gallery_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\list_row_image_text.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\list_row_image_text.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\basic_info.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\basic_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\events_list_item.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\events_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_profile_info.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_profile_info.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\congrates_with_coin_5.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\congrates_with_coin_5.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\verification.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\verification.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_profile_info.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_profile_info.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\webview.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\webview.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\albums.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\albums.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_about_me.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_about_me.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\rating_layout.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\rating_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\griditem.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\griditem.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\eventitem.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\eventitem.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\popuplist_item.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\popuplist_item.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\place_followers_list_item.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\place_followers_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gift_row.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gift_row.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\search.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\search.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\social_media_icons.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\social_media_icons.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\congrates_with_coin_5.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\congrates_with_coin_5.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\paymentwebview.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\paymentwebview.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\login.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\login.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\first_fragment.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\first_fragment.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\who_is_online.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\who_is_online.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\notification_custom_remote.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\notification_custom_remote.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\event_category_row.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\event_category_row.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\google_signin.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\google_signin.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\seal.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\seal.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\virtual_gifts.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\virtual_gifts.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\member_profile.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\member_profile.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gallery_item.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gallery_item.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\galleryitem.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\galleryitem.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_user_profile.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\dialog_user_profile.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\setting_row.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\setting_row.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\search.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\search.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\push_notification_setting.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\push_notification_setting.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\alert_dialog.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\alert_dialog.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\confirmation_dialog.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\confirmation_dialog.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\custom.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\custom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\login_temp.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\login_temp.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\news_detail.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\news_detail.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\list_item_chat.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\list_item_chat.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\promote_fragment.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\promote_fragment.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\photo_of_you_gallery.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\photo_of_you_gallery.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\update_profile_info.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\update_profile_info.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\main.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\all_news.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\all_news.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\menu_item_row.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\menu_item_row.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_contact_details.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_contact_details.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\event.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\event.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_basic_info.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_basic_info.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\events_list_item.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\events_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\album_row.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\album_row.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_chat_menu.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\dialog_chat_menu.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\messagestrip.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\messagestrip.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_contact_details.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_contact_details.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\google_signin.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\google_signin.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_user_profile.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\dialog_user_profile.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\custom_progress_view.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\custom_progress_view.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\layoutspinner.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\layoutspinner.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\my_backstage_album.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\my_backstage_album.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\member_album.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\member_album.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\menu_item_profile_row.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\menu_item_profile_row.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\griditem.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\griditem.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\email_notification_setting.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\email_notification_setting.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\menu_item_row.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\menu_item_row.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gellary_item.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gellary_item.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\grid.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\grid.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\custom_action_bar.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\custom_action_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\photo_comment_row.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\photo_comment_row.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\registration.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\registration.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\setting.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\friend_list.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\friend_list.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\registration_2.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\registration_2.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\alert_dialog.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\setting_single_text.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\setting_single_text.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\layoutspinner.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\layoutspinner.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\update_backstage_album.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\update_backstage_album.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\registration.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\registration.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\pick_friends_activity.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\pick_friends_activity.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\promote_yourself.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\promote_yourself.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\message_to_block.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\message_to_block.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\who_fav_you.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\who_fav_you.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\change_password.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\change_password.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gallery_element.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gallery_element.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\home.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\home.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\push_notification_setting.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\push_notification_setting.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\photo_comment_row.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\photo_comment_row.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\create_event.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\create_event.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\member_profile.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\member_profile.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\who_is_online.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\who_is_online.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\login_temp.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\login_temp.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\who_is_online.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\who_is_online.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\home.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\home.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\event.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\event.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\virtual_gifts.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\virtual_gifts.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\interested_in.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\interested_in.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_main.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\griddisplay.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\griddisplay.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\basic_info.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\basic_info.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\transaction_details.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\transaction_details.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\rated_user_list_item.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\rated_user_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\seal.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\seal.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_gift_list.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_gift_list.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\update_backstage_album.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\update_backstage_album.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\pick_friends_activity.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\pick_friends_activity.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_main.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\album_row.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\album_row.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\menu_header_row.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\menu_header_row.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\add_photo_options.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\add_photo_options.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_main.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\pick_friends_activity.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\pick_friends_activity.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\linkedin_signup.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\linkedin_signup.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\full_user_profile.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\full_user_profile.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\registration_2.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\registration_2.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gift_row.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gift_row.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\list_row_image_text.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\list_row_image_text.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\rating_layout.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\rating_layout.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\lightgrey_listitem.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\lightgrey_listitem.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\who_is_online_setting.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\who_is_online_setting.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\friend_list.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\friend_list.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gallery_item.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gallery_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\bank_account_element.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\bank_account_element.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\email_notification_setting.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\email_notification_setting.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\virtual_gifts.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\virtual_gifts.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\personal_information.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\personal_information.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\login_temp.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\login_temp.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\forget_password.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\forget_password.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\eventitem.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\eventitem.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\audio_rec.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\audio_rec.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_gift_list.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_gift_list.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_splash.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\interested_in.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\interested_in.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\social_media_icons.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\social_media_icons.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\galley_img.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\galley_img.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\standard_search_setting.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\standard_search_setting.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\date_time_picker.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\date_time_picker.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_basic_info.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_basic_info.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\setting.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\setting.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\menu_header_row.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\menu_header_row.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\photo_of_you_gallery.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\photo_of_you_gallery.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\congrates_with_coin_20.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\congrates_with_coin_20.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\listitem.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\listitem.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\social_media_icons.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\social_media_icons.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\custom_action_bar.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\custom_action_bar.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\twitter_signup.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\twitter_signup.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\update_profile_list.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\update_profile_list.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_contact_details.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_contact_details.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\ln_dialog.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\ln_dialog.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\multi_pic_selection.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\multi_pic_selection.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\who_is_online_setting.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\who_is_online_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\layoutspinner.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\layoutspinner.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\congrates_with_coin_20.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\congrates_with_coin_20.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\twitter_signup.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\twitter_signup.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\audio_rec.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\audio_rec.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\setting_row.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\setting_row.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\social_register.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\social_register.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\comment_itm_row.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\comment_itm_row.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\profilepage.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\profilepage.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\google_signin.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\google_signin.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\cash_for_payment.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\cash_for_payment.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\lightgrey_listitem.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\lightgrey_listitem.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\email_notification_setting.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\email_notification_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_webview.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\activity_webview.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\my_backstage_album.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\my_backstage_album.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\add_photo_options.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\add_photo_options.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\friend_list.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\friend_list.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\list_item_chat.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\list_item_chat.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\list_row_image_text.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\list_row_image_text.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\create_event.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\create_event.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\create_event.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\create_event.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\menu_item_profile_row.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\menu_item_profile_row.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\popuplist_item.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\popuplist_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\all_place.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\all_place.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\main.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\feedback.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\feedback.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\bank_account_element.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\bank_account_element.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\comment_list.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\comment_list.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\seal.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\seal.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\comment_list.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\comment_list.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\photo_comment_row.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\photo_comment_row.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\congrates_with_coin_5.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\congrates_with_coin_5.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\update_profile_list.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\update_profile_list.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\rating_layout.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\rating_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\login.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\login.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\ln_dialog.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\ln_dialog.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\all_news.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\all_news.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_about_me.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\user_about_me.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\profilepage.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\profilepage.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\account_setting.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\account_setting.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\date_time_picker.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\date_time_picker.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\promote_yourself.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\promote_yourself.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\push_notification_setting.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\push_notification_setting.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\cash_for_payment.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\cash_for_payment.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\popuplist_item.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\popuplist_item.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\multi_pic_selection.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\multi_pic_selection.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\albums.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\albums.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\my_backstage_album.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\my_backstage_album.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\add_photo_options.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\add_photo_options.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\custom_action_bar.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\custom_action_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\list.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\list.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\banner_item.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\banner_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\paymentwebview.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\paymentwebview.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\white_list_row_item.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\white_list_row_item.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gellary_item.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gellary_item.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\galley_img.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\galley_img.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\first_fragment.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\first_fragment.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\messagestrip.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\messagestrip.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\send_msg_box.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\send_msg_box.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\all_place.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\all_place.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_chat_menu.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\dialog_chat_menu.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\twitter_signup.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\twitter_signup.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\griditem.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\griditem.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\rated_user_list_item.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\rated_user_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\gallery_element.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\gallery_element.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\change_password.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\change_password.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\albums.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\albums.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\congrates_with_coin_20.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\congrates_with_coin_20.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\who_fav_you.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\who_fav_you.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\all_news.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\all_news.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\emoticons_popup.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\emoticons_popup.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\registration.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\registration.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\who_is_online_setting.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\who_is_online_setting.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\social_register.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\social_register.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_webview.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\activity_webview.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\lightgrey_listitem.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\lightgrey_listitem.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\interested_in.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\interested_in.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\eventitem.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\eventitem.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\event.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\event.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\verification.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\verification.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\home.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\home.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\standard_search_setting.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\standard_search_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\terms_condition.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\terms_condition.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\account_setting.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\account_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\who_fav_you.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\who_fav_you.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\cash_for_payment.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\cash_for_payment.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\send_msg_box.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\send_msg_box.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\grid.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\grid.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\update_profile_info.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\update_profile_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\griddisplay.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\griddisplay.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\all_place.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\all_place.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\bank_account_element.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\bank_account_element.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\grid.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\grid.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\main.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\main.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\banner_item.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\banner_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\promote_fragment.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\promote_fragment.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\forget_password.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\forget_password.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\linkedin_signup.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\linkedin_signup.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_splash.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\banner_item.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\banner_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\menu_custom_row.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\menu_custom_row.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\menu_header_row.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\menu_header_row.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\setting.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\setting.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\griddisplay.xml",
+        "source": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\griddisplay.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\confirmation_dialog.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\confirmation_dialog.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\program_list.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\program_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\update_backstage_album.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\update_backstage_album.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_user_profile.xml",
+        "source": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\dialog_user_profile.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\standard_search_setting.xml",
+        "source": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\src\\main\\res\\layout-large\\standard_search_setting.xml"
+    }
+]

@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/baselayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_grey" >
+
+   <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/friend_list_data"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:divider="@color/white_trans"
+        android:dividerHeight="3dp"
+        android:footerDividersEnabled="false" />
+
+</RelativeLayout>

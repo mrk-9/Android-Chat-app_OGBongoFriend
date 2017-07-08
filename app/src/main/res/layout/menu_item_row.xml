@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/list_selector" 
+        >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/imageView1"
+            android:text="TextView"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/side_menu_txt" />
+
+       <TextView
+           android:id="@+id/notification_block"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentRight="true"
+           android:layout_centerVertical="true"
+           android:layout_marginLeft="20dp"
+           android:layout_marginRight="10dp"
+           android:background="@drawable/red_notification"
+           android:padding="5dp"
+           android:visibility="gone"
+           android:text="10"
+           android:textColor="#FFFFFF"
+           android:textSize="@dimen/side_menu_txt" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

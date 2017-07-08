@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    >
+
+<WebView
+    android:id="@+id/webView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_above="@+id/bottom_menu"
+    android:layout_below="@+id/transaction_header"
+    android:background="@color/background_light_grey"
+    android:visibility="gone" />
+
+<ProgressBar
+    android:id="@+id/progressBar1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true" />
+
+<RelativeLayout
+    android:id="@+id/transaction_header"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentTop="true"
+    android:background="@color/light_blue"
+    android:visibility="visible" >
+
+            <Button
+                android:id="@+id/available_plans"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/redeem_gift"
+                android:text="Available Plans"
+                android:background="#00000000"
+                android:textColor="@color/white"
+                android:textSize="14dp" />
+
+             <Button
+                android:id="@+id/redeem_gift"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:text="Redeem Gift"
+                 android:textColor="@color/white"
+                 android:background="#00000000"
+                android:textSize="14dp" />
+
+             <Button
+                 android:id="@+id/transaction_detail"
+                 android:layout_width="wrap_content"
+                 android:layout_height="fill_parent"
+                 android:layout_alignParentRight="true"
+                 android:layout_alignParentTop="true"
+                 android:layout_toRightOf="@+id/redeem_gift"
+                 android:text="Transactions Detail"
+                  android:textColor="@color/white"
+                  android:background="#00000000"
+                 android:textSize="14dp" />
+            
+            
+            <View
+                android:id="@+id/v1"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true" />
+
+            <View
+                android:id="@+id/buttonview"
+                android:layout_width="120dp"
+                android:layout_height="10dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:background="#0000FF" />
+
+        </RelativeLayout>
+
+
+<RelativeLayout
+    android:id="@+id/transaction_details"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:layout_below="@+id/transaction_header">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Transaction Found..."
+        android:textColor="@color/blue"
+        android:layout_centerInParent="true"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_centerInParent="true"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:padding="5dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1.5"
+                    
+                    android:layout_height="wrap_content"
+                    android:text="Sr No."
+                    android:textStyle="bold"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TextView
+                    android:id="@+id/s_no"
+                     android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                 android:padding="5dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/textView6"
+                     android:layout_width="fill_parent"
+                    android:layout_weight="1.5"
+                    android:layout_height="wrap_content"
+                     android:text="Amount"
+                    android:textStyle="bold"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TextView
+                    android:id="@+id/amount"
+                     android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                 android:padding="5dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/textView8"
+                   android:layout_width="fill_parent"
+                    android:layout_weight="1.5"
+                    android:layout_height="wrap_content"
+                  android:text="Status"
+                    android:textStyle="bold"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TextView
+                    android:id="@+id/status"
+                     android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                 android:padding="5dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/textView10"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1.5"
+                    android:layout_height="wrap_content"
+                      android:text="Transaction Reference"
+                    android:textStyle="bold"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TextView
+                    android:id="@+id/transaction_ref"
+                     android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                 android:padding="5dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/textView12"
+                   android:layout_width="fill_parent"
+                    android:layout_weight="1.5"
+                    android:layout_height="wrap_content"
+                      android:text="Payment Reference"
+                    android:textStyle="bold"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TextView
+                    android:id="@+id/payment_ref"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                 android:padding="5dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/textView14"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1.5"
+                    android:layout_height="wrap_content"
+                      android:text="Date"
+                    android:textStyle="bold"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TextView
+                    android:id="@+id/date"
+                   android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                 android:padding="5dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/textView16"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1.5"
+                    android:layout_height="wrap_content"
+                     android:text="Mode"
+                    android:textStyle="bold"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TextView
+                    android:id="@+id/mode"
+                     android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                 android:padding="5dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/textView18"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1.5"
+                    android:layout_height="wrap_content"
+                      android:text="Action"
+                    android:textStyle="bold"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TextView
+                    android:id="@+id/action"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="Details"
+                    android:textColor="@color/blue"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:padding="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/prev"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1.5"
+                    android:layout_height="wrap_content"
+                    android:text="Prev"
+                    android:textColor="@color/blue"
+                    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+                <TextView
+                    android:id="@+id/next"
+                    android:layout_width="fill_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="Next"
+                      android:textColor="@color/blue"
+                    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
+
+
+<LinearLayout
+    android:id="@+id/bottom_menu"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentLeft="true"
+    android:background="@color/light_blue"
+    android:padding="5dp" >
+
+            <ImageView
+                android:id="@+id/cash_to_points"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:layout_weight="1.5"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/card"
+                android:text="Card"
+              android:background="@drawable/cash_to_points"
+                android:textSize="@dimen/side_menu_txt" />
+
+             <Button
+                android:id="@+id/card"
+                android:layout_width="fill_parent"
+                android:layout_weight="2.2"
+                android:layout_height="fill_parent"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:text="Card"
+                android:textColor="@color/white"
+                 android:background="#00000000"
+                android:textSize="12dp" />
+
+             <Button
+                 android:id="@+id/account"
+                 android:layout_width="fill_parent"
+                 android:layout_weight="2"
+                 android:layout_height="fill_parent"
+                 android:layout_alignParentTop="true"
+                 android:layout_toRightOf="@+id/card"
+                 android:layout_toLeftOf="@+id/quickteller"
+                 android:text="Account"
+                 android:textColor="@color/white"
+                 android:background="#00000000"
+                 android:textSize="12dp" />
+             
+             <Button
+                 android:id="@+id/quickteller"
+                 android:layout_width="fill_parent"
+                 android:layout_weight="2"
+                 android:layout_height="fill_parent"
+                 android:layout_alignParentRight="true"
+                 android:layout_alignParentTop="true"
+                 android:text="Quickteller"
+                  android:background="#00000000"
+                  android:textColor="@color/white"
+                 android:textSize="12dp" />
+        
+        </LinearLayout>
+
+
+<GridView
+    android:id="@+id/redeemPoints"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:numColumns="3"
+    android:visibility="gone" >
+
+</GridView>
+
+<RelativeLayout
+    android:id="@+id/account_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_above="@+id/bottom_menu"
+    android:layout_below="@+id/transaction_header"
+    android:background="@color/background_grey"
+    android:visibility="gone" >
+
+    <TextView
+        android:id="@+id/account_info_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Account's Information"
+        android:textStyle="bold"
+        android:textColor="@color/red"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Do Cash deposit at any of these bank"
+        android:textColor="@color/blue"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/account_info_text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <ListView
+        android:id="@+id/account_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="5dp" >
+    </ListView>
+
+</RelativeLayout>
+
+<RelativeLayout
+    android:id="@+id/quickteller_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_below="@+id/transaction_header"
+    android:visibility="gone" >
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="payment button will appear here shortly.."
+        android:textColor="@color/blue"
+        android:layout_centerInParent="true"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</RelativeLayout>
+
+</RelativeLayout>

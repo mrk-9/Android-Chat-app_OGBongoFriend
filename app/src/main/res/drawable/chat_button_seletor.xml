@@ -1,0 +1,8 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    
+    <item android:drawable="@drawable/inbox_over" 
+        android:state_pressed="true"/>
+    <item android:drawable="@drawable/inbox_on"/>
+  
+</selector>

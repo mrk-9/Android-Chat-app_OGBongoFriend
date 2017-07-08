@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <GridView
+            android:id="@+id/my_photos"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:numColumns="3" >
+        </GridView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="8"
+            android:orientation="horizontal" >
+
+           
+                <Button
+                android:id="@+id/add_new_photo"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_edge_dark_grey"
+                android:textColor="@color/white"
+                android:layout_margin="2dp"
+                android:text="Add New Photo" />
+
+            <Button
+                android:id="@+id/del_album"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:layout_margin="2dp"
+                 android:background="@drawable/rounded_edge_dark_grey"
+                android:textColor="@color/white"
+                android:text="Delete Photo" />
+
+            <Button
+                android:id="@+id/rate_album"
+                android:layout_width="fill_parent"
+                 style="?android:attr/buttonStyleSmall"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:layout_margin="2dp"
+                 android:background="@drawable/rounded_edge_dark_grey"
+                android:textColor="@color/white"
+                android:text="Select Points"  />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

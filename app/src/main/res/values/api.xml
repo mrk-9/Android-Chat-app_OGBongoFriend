@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <!--  <string name="server">192.168.0.188/</string> -->
+    <!-- <string name="server">162.243.205.148</string> -->
+    
+    <string name="server">www.ogbongefriends.com</string>
+    
+    <!-- <string name="api_intermediary_path">ogbonge/api</string>
+     -->
+     <string name="api_intermediary_path">api</string>
+    
+     
+    <string name="login_api">quickbloxLogin</string>
+    <string name="postContact">postContact</string>
+    <string name="urlString">http://www.ogbongefriends.com/</string>
+    
+    
+    
+    <!-- <string name="registration_api">newUser</string> -->
+    
+    
+    <string name="registration_api">signup</string>
+    <string name="registration_2_api">registrationProcessSecond</string>
+    <string name="update_profile_api">updateUserProfile</string>
+    
+    <string name="getSetting">getSetting</string>
+    
+    <string name="get_entity_api">getEntity</string>
+    <string name="message_api">postmessages.php</string>
+    <string translatable="false" name="category_api">scripture/category_detail.php</string>
+    <string translatable="false" name="list_api">scripture/category_content.php</string>
+    <string name="add_tribes_api">postPlaces.php</string>
+    <string name="post_bookmark_api">postBookmark.php</string>
+    <string name="getPlace_api">getPlaces.php</string>
+    <string name="logout_api">logout</string>
+    <string name="forget_password_api">forgetPassword</string>
+    <string name="getAccount">getAccount</string>
+    <string name="points_info">infoTransaction</string>
+    <string name="photoRating">photoRating</string>
+    <string name="postPush">postPush</string>
+    <string name="redeemGift">redeemGift</string>
+    <string name="otherInfo">otherInfo</string>
+    <string name="albumInfo">albumInfo</string>
+    <string name="delPhoto">delPhoto</string>
+    <string name="addEvent">addEvent</string>
+    <string name="getTransaction">getTransaction</string>
+      <string name="infoTransaction">infoTransaction</string>
+    <string name="getEventComments">eventComments</string>
+    <string name="postEnquiry">postEnquiry</string>
+    <string name="eventAct">eventAct</string>
+    
+    <string name="earnPoints">earnPoints</string>
+    
+    <string name="change_password_api">changePassword</string>
+    <string name="post_following_api">postFollower.php</string>
+    <string name="profile_info_api">getUserProfile</string>
+    <string name="userVerification">userVerification</string>
+    <string name="sendFriendRequest">friendRequest</string>
+    <string name="get_all_users">getAllUsersProfile</string>
+    <string name="get_album">getAlbum</string>
+    <string name="get_photo_comment">photoComments</string>
+    <string name="get_photo_rating">photoRating</string>
+    <string name="getGift">getGift</string>
+    <string name="sendGift">sendGift</string>
+    <string name="updateNotification">updateNotification</string>
+    <string name="getNotification">getNotification</string>
+    <string name="getNotification_count">getMessage</string>
+    <string name="country_api">getCountries.php</string>
+    <string name="hash_tag">getHashTags.php</string>
+    <string name="getevent_api">getEvent</string>
+    
+    <string name="breakingNews">breakingNews</string>
+    
+     <string name="GetBanner">getBanner</string>
+    
+    <string name="block_user">blockUser</string>
+    
+    <string name="get_following_api">getFollower.php</string>
+    <string name="post_feed_api">postNewsFeed.php</string>
+    <string name="post_media_api">urban/api/fileUpload.php</string>
+    
+    <string name="event_atendee_api">postPlaceEventCheckin.php</string>
+    <string name="get_event_atendee_api">getPlaceEventCheckinAPI.php</string>
+    <string name="get_feed_api">getNewsFeed.php</string>
+    <string name="get_search_api">search</string>
+    <string name="get_favourites_api">favourites</string>
+    
+    <string name="someone_free_tonight_api">getFindSomeoneFreeTonight.php</string>
+    <string name="post_someone_like_api">postSomeoneYouLiked.php</string>
+    <string name="update_message_status_api">updateMessageStatus.php</string>
+    <string name="get_someone_like_api">getFindSomeoneYouLiked.php</string>
+    <string name="get_someone_like_feed_api">someoneYouLiked.php</string>
+    <string name="post_comment_api">postComment.php</string>
+
+</resources>

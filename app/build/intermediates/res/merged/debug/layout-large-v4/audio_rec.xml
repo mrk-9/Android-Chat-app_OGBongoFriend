@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000" >
+
+    <LinearLayout
+        android:id="@+id/controlsLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal"
+        android:padding="16dp" >
+
+        <Button
+            android:id="@+id/recordBtn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
+            android:layout_weight="0.7"
+            android:background="@drawable/rounded_blue_btn"
+            android:text="Record" />
+
+        <Button
+            android:id="@+id/playBtn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.3"
+             android:background="@drawable/rounded_blue_btn"
+            android:text="Send" />
+    </LinearLayout>
+
+    <com.ogbongefriends.com.androidrecording.visualizer.VisualizerView
+        android:id="@+id/visualizerView"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:layout_below="@+id/controlsLayout"
+        android:layout_margin="16dp" >
+    </com.ogbongefriends.com.androidrecording.visualizer.VisualizerView>
+
+    <TextView
+        android:id="@+id/timer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/visualizerView"
+        android:textColor="@color/white"/>
+
+</RelativeLayout>

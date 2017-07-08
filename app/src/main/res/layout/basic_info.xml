@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/new_bg" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="34dp"
+        android:orientation="vertical" >
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/register_L_R_margin"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="@dimen/margin_bw_editText"
+            android:layout_weight="1" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+
+                <EditText
+                    android:id="@+id/username"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/editText_height"
+                    android:background="@drawable/layout_corners"
+                    android:hint="Name"
+                    android:paddingLeft="5dp" >
+
+                    <requestFocus />
+                </EditText>
+
+                <EditText
+                    android:id="@+id/phone"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/editText_height"
+                    android:layout_below="@+id/username"
+                    android:layout_marginTop="@dimen/margin_bw_editText"
+                    android:background="@drawable/layout_corners"
+                    android:hint="Telephone Number"
+                    android:inputType="phone"
+                    android:maxLength="14"
+                    android:paddingLeft="5dp" />
+
+                <EditText
+                    android:id="@+id/email_id"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/editText_height"
+                    android:layout_below="@+id/phone"
+                    android:layout_marginTop="@dimen/margin_bw_editText"
+                    android:background="@drawable/layout_corners"
+                    android:hint="Email"
+                    android:paddingLeft="3dp" />
+
+                <EditText
+                    android:id="@+id/dob"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/editText_height"
+                    android:layout_below="@+id/gender_spinner"
+                    android:layout_marginTop="@dimen/margin_bw_editText"
+                    android:background="@drawable/layout_corners"
+                    android:editable="false"
+                    android:hint="Date Of Birth"
+                    android:inputType="text"
+                    android:paddingLeft="5dp" />
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/editText_height"
+                    android:layout_alignTop="@+id/dob"
+                    android:layout_below="@+id/gender_spinner"
+                    android:paddingLeft="5dp" />
+
+                <Spinner
+                    android:id="@+id/gender_spinner"
+                    android:layout_width="fill_parent"
+                    android:layout_height="53dp"
+                    android:layout_below="@+id/email_id"
+                    android:layout_marginTop="@dimen/margin_bw_editText"
+                     />
+
+            </RelativeLayout>
+        </ScrollView>
+
+        <Button
+            android:id="@+id/sign_up"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/editText_height"
+            android:layout_marginTop="@dimen/margin_bw_editText"
+            android:text="Done"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\libs\\FacebookSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ldpi-v4\\values-ldpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "E:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\libs\\FacebookSDK\\build\\intermediates\\bundles\\debug\\res\\values-ldpi-v4\\values-ldpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\libs\\FacebookSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ldpi-v4\\values-ldpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Work\\Works\\OgbongeProject\\OgbongeFriends5\\app\\libs\\FacebookSDK\\build\\intermediates\\bundles\\debug\\res\\values-ldpi-v4\\values-ldpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\libs\\FacebookSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ldpi-v4\\values-ldpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "F:\\Android\\Android Tasks\\OgbongeProject\\OgbongeFriends5\\app\\libs\\FacebookSDK\\build\\intermediates\\bundles\\debug\\res\\values-ldpi-v4\\values-ldpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="250dp"
+    
+    android:background="@drawable/pop_up_bg"
+  >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="30dp"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:text="Free Points"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:textSize="25sp"
+            android:layout_marginTop="25dp"
+            android:hint="Message"
+            android:ems="10" >
+
+            <requestFocus />
+        </EditText>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100sp" 
+             android:layout_marginTop="20dp"
+            android:gravity="center_horizontal">
+
+            <Button
+                android:id="@+id/ok_btn"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="100dp"
+                android:textSize="30sp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+               android:background="@drawable/rounded_green_btn"
+                android:text="Ok" />
+
+            <Button
+                android:id="@+id/cancel_btn"
+                android:layout_width="120dp"
+                  style="?android:attr/buttonStyleSmall"
+                  android:textSize="30sp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginLeft="5dp"
+               android:background="@drawable/rounded_blue_btn"
+                android:text="Cancel" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

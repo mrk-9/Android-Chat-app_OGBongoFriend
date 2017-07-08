@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+     android:background="@drawable/pop_up_bg"
+    >
+
+    <RelativeLayout
+        android:id="@+id/crystal_parent"
+        android:layout_width="fill_parent"
+        android:layout_height="350dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true" >
+
+        <TextView
+            android:id="@+id/setdate"
+            android:layout_width="300dp"
+            android:layout_height="55dp"
+           android:gravity="center_vertical"
+            android:layout_below="@+id/textView1"
+            android:background="@color/white"
+            android:layout_centerHorizontal="true"
+             />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/setdate"
+            android:layout_marginTop="40dp"
+            android:textSize="30sp"
+            android:layout_alignParentTop="true"
+            android:text="Set Date"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/settime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/setdate"
+            android:layout_below="@+id/setdate"
+            android:textSize="30sp"
+            android:layout_marginTop="24dp"
+            android:text="Set Time"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/settimeedit"
+            android:layout_width="300dp"
+            android:layout_height="55dp"
+            android:gravity="center_vertical"
+            android:layout_alignLeft="@+id/settime"
+             android:background="@color/white"
+            android:layout_below="@+id/settime"
+            android:ems="10" />
+
+        <Button
+            android:id="@+id/set"
+            android:layout_width="140dp"
+            android:layout_height="55dp"
+            android:layout_alignLeft="@+id/settimeedit"
+            android:textSize="25sp"
+            android:layout_below="@+id/settimeedit"
+             android:textColor="@color/white"
+            android:background="@drawable/rounded_green_btn"
+            android:layout_marginTop="25dp"
+            android:text="Set" />
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="140dp"
+            android:layout_height="55dp"
+            android:layout_alignBaseline="@+id/set"
+            android:textSize="25sp"
+            android:layout_alignBottom="@+id/set"
+             android:textColor="@color/white"
+            android:background="@drawable/rounded_blue_btn"
+            android:layout_alignRight="@+id/settimeedit"
+            android:text="Cancel" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
